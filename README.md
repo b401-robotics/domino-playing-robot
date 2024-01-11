@@ -170,7 +170,7 @@ Untuk mengakses kode proyek, silakan klik [Kode Bermain](https://github.com/arya
 
 Untuk mengakses model YOLOv8, silakan klik [Model YOLOv8](https://github.com/aryadutapp/domino-playing-robot/blob/main/best-2.pt)
 
-Untuk mengakses Artikel Ilmiah, silakan klik [Artikel Ilmiah](https://github.com/aryadutapp/domino-playing-robot/blob/main/best-2.pt)
+Untuk mengakses Artikel Ilmiah, silakan klik [Artikel Ilmiah](https://github.com/aryadutapp/domino-playing-robot/blob/main/laporan_ai_domino.pdf)
 
 Untuk mengakses Video, silakan klik [Video Demo](https://drive.google.com/file/d/1lpIgz3T_ppl5UApVk7rqoeNV1MpFE2Zn/view?usp=drive_link)
 
